@@ -1,4 +1,4 @@
-##Iris Dataset Classification with Decision Trees and Ensemble Models
+## Iris Dataset Classification with Decision Trees and Ensemble Models
 # Project Overview
 This project demonstrates how to build, visualize, and evaluate Decision Tree, Random Forest, and Gradient Boosting models using the classic Iris dataset. It includes exploratory data analysis (EDA), visualization, model training, and performance comparison.
 
